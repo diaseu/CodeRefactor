@@ -9,7 +9,7 @@ The goal was to improve codebase to follow accessibility standards, as well for 
 
 index.html
 - Added comment tags to clarify code elements
-- Updated META tags in head to inclue viewport and X-UA-Compatible
+- Updated META tags in head to include viewport and X-UA-Compatible
 - Updated title in head to reflect more accurate website description
 - Updated 'header' tag to 'nav' tag to more accurately reflect purpose
 - Updated 'section' tags to 'div' tags on line 16, 22 to match CSS
