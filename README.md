@@ -8,7 +8,7 @@ The goal was to improve codebase to follow accessibility standards, as well for 
 ## Change Logs
 
 index.html
-- Added comment tags to clarify code
+- Added comment tags to clarify code elements
 - Updated META tags in head to inclue viewport and X-UA-Compatible
 - Updated title in head to reflect more accurate website description
 - Updated 'header' tag to 'nav' tag to more accurately reflect purpose
