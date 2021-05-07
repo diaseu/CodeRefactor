@@ -3,7 +3,7 @@
 UCI Coding Bootcamp project to refactor code for Horiseon website.
 The goal was to improve codebase to follow accessibility standards, as well for long term sustainability.  This includes ensuring that all links are functioning correctly, cleaning up the CSS to make it more efficient, consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
 
-<img src="https://i.imgur.com/8a36XJe.jpeg" alt="Screenshot of Revised Website">
+<a href="https://diaseu.github.io/CodeRefactor/"><img src="https://i.imgur.com/8a36XJe.jpeg" alt="Screenshot of Revised Website"></a>
 
 ## Change Logs
 
